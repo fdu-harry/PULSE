@@ -3,4 +3,4 @@ A Personalized Physiological Signal Analysis Framework via Unsupervised Domain A
 
 PULSE
 
-![image](https://github.com/fdu-harry/IPCT-Net/blob/main/IPCT-Net.jpg)
+![image](https://github.com/fdu-harry/PULSE/blob/main/PULSE.jpg)
