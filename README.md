@@ -1,7 +1,20 @@
 # PULSE: Personalized Physiological Signal Analysis Framework
-A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-adaptive Learning
 
-PULSE
+## Publication
+*A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-adaptive Learning*
+
+## Citation
+If you find this repository useful for your research, please consider citing our paper:
+
+```bibtex
+@article{wang2025pulse,
+  title={PULSE: A personalized physiological signal analysis framework via unsupervised domain adaptation and self-adaptive learning},
+  author={Wang, Yanan and Hu, Shuaicong and Liu, Jian and Wang, Aiguo and Zhou, Guohui and Yang, Cuiwei},
+  journal={Expert Systems with Applications},
+  pages={127317},
+  year={2025},
+  publisher={Elsevier}
+}
 
 ![image](https://github.com/fdu-harry/PULSE/blob/main/PULSE.jpg)
 
