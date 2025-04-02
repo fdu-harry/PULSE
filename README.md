@@ -3,6 +3,8 @@
 ## Publication
 *A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-adaptive Learning*
 
+![image](https://github.com/fdu-harry/PULSE/blob/main/PULSE.jpg)
+
 ## Citation
 If you find this repository useful for your research, please consider citing our paper:
 
@@ -15,8 +17,6 @@ If you find this repository useful for your research, please consider citing our
   year={2025},
   publisher={Elsevier}
 }
-
-![image](https://github.com/fdu-harry/PULSE/blob/main/PULSE.jpg)
 
 This repository contains the implementation of PULSE (Personalized Unsupervised domain adaptation via seLf-adaptive lEarning), a framework for personalizing physiological signal analysis through unsupervised domain adaptation and self-adaptive learning.
 
