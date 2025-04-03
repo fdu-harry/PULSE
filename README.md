@@ -18,6 +18,7 @@ If you find this repository useful for your research, please consider citing our
   publisher={Elsevier}
 }
 
+## Description
 This repository contains the implementation of PULSE (Personalized Unsupervised domain adaptation via seLf-adaptive lEarning), a framework for personalizing physiological signal analysis through unsupervised domain adaptation and self-adaptive learning.
 
 ## Overview
@@ -60,10 +61,6 @@ The framework achieves:
 
 2.8%-6.5% improvements in F1 score (91.5%-95.2% → 98.0%)
 2.6%-6.4% improvements in accuracy (90.8%-94.6% → 97.2%)
-
-## Citation
-
-If you find this code useful for your research, please cite our paper:
 
 @article{PULSE2025,
   title={PULSE: A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-adaptive Learning},
