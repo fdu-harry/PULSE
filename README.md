@@ -17,6 +17,7 @@ If you find this repository useful for your research, please consider citing our
   year={2025},
   publisher={Elsevier}
 }
+```
 
 ## Description
 
@@ -62,7 +63,3 @@ The framework achieves:
 
 2.8%-6.5% improvements in F1 score (91.5%-95.2% → 98.0%)
 2.6%-6.4% improvements in accuracy (90.8%-94.6% → 97.2%)
-
-@article{PULSE2025,
-  title={PULSE: A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-adaptive Learning},
-  author={Wang, Yanan and Hu, Shuaicong and Liu, Jian and Wang, Aiguo and Zhou, Guohui and Yang, Cuiwei}
