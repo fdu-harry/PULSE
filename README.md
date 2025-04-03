@@ -19,6 +19,7 @@ If you find this repository useful for your research, please consider citing our
 }
 
 ## Description
+
 This repository contains the implementation of PULSE (Personalized Unsupervised domain adaptation via seLf-adaptive lEarning), a framework for personalizing physiological signal analysis through unsupervised domain adaptation and self-adaptive learning.
 
 ## Overview
